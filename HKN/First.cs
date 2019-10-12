@@ -6,6 +6,7 @@ namespace HKN
         public First()
         {
             Console.WriteLine("hello");
+            Console.ReadLine();
         }
     }
 }
